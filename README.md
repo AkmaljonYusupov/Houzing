@@ -1,6 +1,6 @@
 # Getting Started with Akmaljon Yusupov
 
-This project is availble on github [Houzing](https://github.com/AkmaljonYusupov/houzing).
+This project is availble on github [Houzing]<a href="https://houzing-uzb.netlify.app/home"></a>.
 
 # can see the DEMO [Houzing] (https://houzing-uzb.netlify.app/home).
 
